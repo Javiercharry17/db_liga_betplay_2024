@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66312640b7365f39333cd406"
+  },
+  "nombre": "Nicolas Gallo",
+  "Edad": "38 años",
+  "Nacionalidad": "Colombiano",
+  "Nivel_certificacion": "arbitro fifa"
+},
+{
+  "_id": {
+    "$oid": "663127d9b7365f39333cd407"
+  },
+  "nombre": "wilmar roldan",
+  "Edad": "44 años",
+  "Nacionalidad": "Colombiano",
+  "Nivel_certificacion": "arbitro profesional"
+},
+{
+  "_id": {
+    "$oid": "66312826b7365f39333cd408"
+  },
+  "nombre": "carlos ortega",
+  "Edad": "34 años",
+  "Nacionalidad": "Colombiano",
+  "Nivel_certificacion": "arbitro profesional"
+},
+{
+  "_id": {
+    "$oid": "6631288ab7365f39333cd409"
+  },
+  "nombre": "Luis sanchez",
+  "Edad": "43 años",
+  "Nacionalidad": "Colombiano",
+  "Nivel_certificacion": "arbitro profesional"
+},
+{
+  "_id": {
+    "$oid": "663128aab7365f39333cd40a"
+  },
+  "nombre": "hernando buitrago",
+  "Edad": "53 años",
+  "Nacionalidad": "Colombiano",
+  "Nivel_certificacion": "arbitro profesional"
+}]

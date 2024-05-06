@@ -1,0 +1,1780 @@
+[{
+  "_id": {
+    "$oid": "663408b38ff42599ccd7603d"
+  },
+  "fecha": "2024-01-19",
+  "hora": "19:00",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "jaguares",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd7603e"
+  },
+  "fecha": "2024-01-19",
+  "hora": "20:30",
+  "equipo_local": "Deportivo pereira",
+  "equipo_visitante": "deportivo cali",
+  "estadio": "Estadio hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd7603f"
+  },
+  "fecha": "2024-01-20",
+  "hora": "18:00",
+  "equipo_local": "Independiente Medellín",
+  "equipo_visitante": "Once Caldas",
+  "estadio": "Estadio Atanasio Girardot"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76040"
+  },
+  "fecha": "2024-01-20",
+  "hora": "17:30",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "boyaca chico",
+  "estadio": "Estadio palogrande"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76041"
+  },
+  "fecha": "2024-01-20",
+  "hora": "16:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "fortaleza ",
+  "estadio": "Estadio manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76042"
+  },
+  "fecha": "2024-01-21",
+  "hora": "16:00",
+  "equipo_local": "america de cali",
+  "equipo_visitante": "aguilas doradas",
+  "estadio": "Estadio pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76043"
+  },
+  "fecha": "2024-01-21",
+  "hora": "16:00",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "medellin",
+  "estadio": "Estadio Nemesio Camacho El Campín"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76044"
+  },
+  "fecha": "2024-01-21",
+  "hora": "16:00",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "bucaramanga",
+  "estadio": "Estadio metropolitano"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76045"
+  },
+  "fecha": "2024-01-22",
+  "hora": "16:00",
+  "equipo_local": "atletico nacional",
+  "equipo_visitante": "alianza fc",
+  "estadio": "Estadio atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "663408b38ff42599ccd76046"
+  },
+  "fecha": "2024-01-22",
+  "hora": "16:00",
+  "equipo_local": "la equidad",
+  "equipo_visitante": "envigado",
+  "estadio": "Estadio de techo"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd76047"
+  },
+  "fecha": "2024-01-19",
+  "hora": "19:00",
+  "equipo_local": "fortaleza fc",
+  "equipo_visitante": "patriotas",
+  "estadio": "Estadio de techo"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd76048"
+  },
+  "fecha": "2024-01-19",
+  "hora": "20:30",
+  "equipo_local": "aguilas doradas",
+  "equipo_visitante": "once caldas",
+  "estadio": "Estadio alberto grisales"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd76049"
+  },
+  "fecha": "2024-01-20",
+  "hora": "18:00",
+  "equipo_local": "deportivo pasto",
+  "equipo_visitante": "tolima",
+  "estadio": "Estadio la libertad"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd7604a"
+  },
+  "fecha": "2024-01-20",
+  "hora": "17:30",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "deportivo cali",
+  "estadio": "Estadio armando maestre"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd7604b"
+  },
+  "fecha": "2024-01-20",
+  "hora": "16:00",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "envigado",
+  "estadio": "Estadio nemesio camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd7604c"
+  },
+  "fecha": "2024-01-21",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "la equidad",
+  "estadio": "Estadio jaraguay de monteria"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd7604d"
+  },
+  "fecha": "2024-01-21",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "deportivo pereira",
+  "estadio": "Estadio atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd7604e"
+  },
+  "fecha": "2024-01-21",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "junior fc",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd7604f"
+  },
+  "fecha": "2024-01-22",
+  "hora": "16:00",
+  "equipo_local": "amaerica de cali",
+  "equipo_visitante": "atletico nacional",
+  "estadio": "Estadio pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "66340a8c8ff42599ccd76050"
+  },
+  "fecha": "2024-01-22",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "millonarios",
+  "estadio": "Estadio alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76051"
+  },
+  "fecha": "2024-01-30",
+  "hora": "19:00",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "aguilas doradas",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76052"
+  },
+  "fecha": "2024-01-30",
+  "hora": "20:30",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "fortaleza",
+  "estadio": "Estadio deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76053"
+  },
+  "fecha": "2024-01-30",
+  "hora": "18:00",
+  "equipo_local": "la equidad",
+  "equipo_visitante": "santa fe",
+  "estadio": "Estadio de techo"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76054"
+  },
+  "fecha": "2024-01-31",
+  "hora": "17:30",
+  "equipo_local": "deportivo pereira ",
+  "equipo_visitante": "pasto",
+  "estadio": "Estadio hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76055"
+  },
+  "fecha": "2024-01-31",
+  "hora": "16:00",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "alianza fc",
+  "estadio": "Estadio nemesio camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76056"
+  },
+  "fecha": "2024-01-31",
+  "hora": "16:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "america de cali",
+  "estadio": "Estadio manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76057"
+  },
+  "fecha": "2024-02-01",
+  "hora": "16:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "boyaca chico",
+  "estadio": "Estadio polideportivo sur"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76058"
+  },
+  "fecha": "2024-02-01",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "junior fc",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd76059"
+  },
+  "fecha": "2024-02-01",
+  "hora": "16:00",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "medellin",
+  "estadio": "Estadio metropolitano"
+},
+{
+  "_id": {
+    "$oid": "66340e2a8ff42599ccd7605a"
+  },
+  "fecha": "2024-02-02",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "bucaramanga",
+  "estadio": "Estadio jaraguay de monteria"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd7605b"
+  },
+  "fecha": "2024-03-30",
+  "hora": "19:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "millonarios",
+  "estadio": "Estadio murillo toro"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd7605c"
+  },
+  "fecha": "2024-03-30",
+  "hora": "20:30",
+  "equipo_local": "america de cali",
+  "equipo_visitante": "patriotas",
+  "estadio": "Estadio pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd7605d"
+  },
+  "fecha": "2024-04-30",
+  "hora": "18:00",
+  "equipo_local": "fortaleza",
+  "equipo_visitante": "envigado",
+  "estadio": "Estadio de techo"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd7605e"
+  },
+  "fecha": "2024-04-31",
+  "hora": "17:30",
+  "equipo_local": "aguilas doradas ",
+  "equipo_visitante": "atletico nacional",
+  "estadio": "Estadio alberto grisales"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd7605f"
+  },
+  "fecha": "2024-04-31",
+  "hora": "16:00",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "junior fc",
+  "estadio": "Estadio armando maestre"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd76060"
+  },
+  "fecha": "2024-05-31",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "deportivo pereira",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd76061"
+  },
+  "fecha": "2024-05-01",
+  "hora": "16:00",
+  "equipo_local": "pasto",
+  "equipo_visitante": "jaguares",
+  "estadio": "Estadio la libertad"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd76062"
+  },
+  "fecha": "2024-05-01",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "deportivo cali",
+  "estadio": "Estadio atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd76063"
+  },
+  "fecha": "2024-06-01",
+  "hora": "16:00",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "la equidad",
+  "estadio": "Estadio palogrande"
+},
+{
+  "_id": {
+    "$oid": "6634110a8ff42599ccd76064"
+  },
+  "fecha": "2024-06-02",
+  "hora": "16:00",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "bucaramanga",
+  "estadio": "Estadio nemesio camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd76065"
+  },
+  "fecha": "2024-02-07",
+  "hora": "19:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "alianza fc",
+  "estadio": "Estadio polideportivo del sur"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd76066"
+  },
+  "fecha": "2024-02-07",
+  "hora": "20:30",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "america de cali",
+  "estadio": "Estadio nemesio camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd76067"
+  },
+  "fecha": "2024-02-08",
+  "hora": "18:00",
+  "equipo_local": "deportivo pereira",
+  "equipo_visitante": "fortaleza fc",
+  "estadio": "Estadio hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd76068"
+  },
+  "fecha": "2024-02-08",
+  "hora": "17:30",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "pasto",
+  "estadio": "Estadio metropolitano"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd76069"
+  },
+  "fecha": "2024-02-09",
+  "hora": "16:00",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "atletico nacional",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd7606a"
+  },
+  "fecha": "2024-02-09",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "aguilas doradas",
+  "estadio": "Estadio jaraguay de monteria"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd7606b"
+  },
+  "fecha": "2024-02-10",
+  "hora": "16:00",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "boyaca chico",
+  "estadio": "Estadio deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd7606c"
+  },
+  "fecha": "2024-02-10",
+  "hora": "16:00",
+  "equipo_local": "la equidad",
+  "equipo_visitante": "tolima",
+  "estadio": "Estadio de techo"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd7606d"
+  },
+  "fecha": "2024-02-10",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "once caldas",
+  "estadio": "Estadio alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "663415df8ff42599ccd7606e"
+  },
+  "fecha": "2024-02-09",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "santa fe",
+  "estadio": "atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88c9"
+  },
+  "fecha": "2024-02-11",
+  "hora": "19:00",
+  "equipo_local": "fortaleza fc",
+  "equipo_visitante": "junior fc",
+  "estadio": "Estadio de techo"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88ca"
+  },
+  "fecha": "2024-02-11",
+  "hora": "20:30",
+  "equipo_local": "atletico nacional",
+  "equipo_visitante": "millonarios",
+  "estadio": "Estadio Atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88cb"
+  },
+  "fecha": "2024-02-11",
+  "hora": "18:00",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "deportivo Pereira",
+  "estadio": "Estadio armando maestre"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88cc"
+  },
+  "fecha": "2024-02-12",
+  "hora": "17:30",
+  "equipo_local": "pasto",
+  "equipo_visitante": "envigado",
+  "estadio": "Estadio la libertad"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88cd"
+  },
+  "fecha": "2024-02-13",
+  "hora": "16:00",
+  "equipo_local": "águilas doradas",
+  "equipo_visitante": "la equidad",
+  "estadio": "Estadio Alberto Grisales "
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88ce"
+  },
+  "fecha": "2024-02-13",
+  "hora": "16:00",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "deportivo cali",
+  "estadio": "Estadio Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88cf"
+  },
+  "fecha": "2024-02-14",
+  "hora": "16:00",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "patriotas",
+  "estadio": "Estadio palogrande"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88d0"
+  },
+  "fecha": "2024-02-14",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "independiente medellin",
+  "estadio": "Estadio la independencia"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88d1"
+  },
+  "fecha": "2024-02-15",
+  "hora": "16:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "jaguares",
+  "estadio": "Estadio Manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "663550c296cfb9021dff88d2"
+  },
+  "fecha": "2024-02-15",
+  "hora": "16:00",
+  "equipo_local": "america de cali ",
+  "equipo_visitante": "bucaramanga",
+  "estadio": "pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d3"
+  },
+  "fecha": "2024-02-16",
+  "hora": "19:00",
+  "equipo_local": "millonarios ",
+  "equipo_visitante": "águilas doradas",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d4"
+  },
+  "fecha": "2024-02-16",
+  "hora": "20:30",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "atletico nacional",
+  "estadio": " deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d5"
+  },
+  "fecha": "2024-02-17",
+  "hora": "18:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "fotaleza fc",
+  "estadio": " atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d6"
+  },
+  "fecha": "2024-02-17",
+  "hora": "17:30",
+  "equipo_local": "deportivo pereira",
+  "equipo_visitante": "santa fe",
+  "estadio": " hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d7"
+  },
+  "fecha": "2024-02-18",
+  "hora": "16:00",
+  "equipo_local": "la equidad",
+  "equipo_visitante": "patriotas",
+  "estadio": " de techo "
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d8"
+  },
+  "fecha": "2024-02-18",
+  "hora": "16:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "america de cali",
+  "estadio": " jaraguay de monteria"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88d9"
+  },
+  "fecha": "2024-02-18",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "once caldas",
+  "estadio": " palogrande"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88da"
+  },
+  "fecha": "2024-02-18",
+  "hora": "16:00",
+  "equipo_local": "junior",
+  "equipo_visitante": "tolima",
+  "estadio": " metropolitano"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88db"
+  },
+  "fecha": "2024-02-19",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "alianza fc",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "663553bf96cfb9021dff88dc"
+  },
+  "fecha": "2024-02-19",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga ",
+  "equipo_visitante": "pasto",
+  "estadio": "Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88dd"
+  },
+  "fecha": "2024-02-21",
+  "hora": "19:00",
+  "equipo_local": "santa fe ",
+  "equipo_visitante": "junior ",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88de"
+  },
+  "fecha": "2024-02-22",
+  "hora": "20:30",
+  "equipo_local": "tolima",
+  "equipo_visitante": "bucaramanga",
+  "estadio": " Manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88df"
+  },
+  "fecha": "2024-02-22",
+  "hora": "18:00",
+  "equipo_local": "america de cali",
+  "equipo_visitante": "la equidad",
+  "estadio": " pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88e0"
+  },
+  "fecha": "2024-02-22",
+  "hora": "17:30",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "deportivo pereira",
+  "estadio": " palogrande"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88e1"
+  },
+  "fecha": "2024-02-23",
+  "hora": "16:00",
+  "equipo_local": "fotaleza fc",
+  "equipo_visitante": "boyaca chico",
+  "estadio": " de techo "
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88e2"
+  },
+  "fecha": "2024-02-23",
+  "hora": "16:00",
+  "equipo_local": "águilas doradas",
+  "equipo_visitante": "envigado",
+  "estadio": " Alberto grisales"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88e3"
+  },
+  "fecha": "2024-02-23",
+  "hora": "16:00",
+  "equipo_local": "pasto",
+  "equipo_visitante": "deportivo cali",
+  "estadio": " la libertad"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88e4"
+  },
+  "fecha": "2024-02-24",
+  "hora": "16:00",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "medellin",
+  "estadio": " futbol armando maestre"
+},
+{
+  "_id": {
+    "$oid": "6635568096cfb9021dff88e5"
+  },
+  "fecha": "2024-02-24",
+  "hora": "16:00",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "millonarios",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88e6"
+  },
+  "fecha": "2024-02-25",
+  "hora": "19:00",
+  "equipo_local": "jaguares ",
+  "equipo_visitante": "america de cali",
+  "estadio": "jaraguay de monteria"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88e7"
+  },
+  "fecha": "2024-02-25",
+  "hora": "20:30",
+  "equipo_local": "la equidad",
+  "equipo_visitante": "atletico nacional",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88e8"
+  },
+  "fecha": "2024-02-25",
+  "hora": "18:00",
+  "equipo_local": "deportivo pereira",
+  "equipo_visitante": "junior fc",
+  "estadio": " hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88e9"
+  },
+  "fecha": "2024-02-26",
+  "hora": "17:30",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "santa fe",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88ea"
+  },
+  "fecha": "2024-02-26",
+  "hora": "16:00",
+  "equipo_local": "deportivo cali ",
+  "equipo_visitante": "tolima",
+  "estadio": " deportivo cali "
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88eb"
+  },
+  "fecha": "2024-02-27",
+  "hora": "16:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "patriotas",
+  "estadio": " polideportivo sur"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88ec"
+  },
+  "fecha": "2024-02-27",
+  "hora": "16:00",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "once caldas",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88ed"
+  },
+  "fecha": "2024-02-28",
+  "hora": "16:00",
+  "equipo_local": "fortaleza fc",
+  "equipo_visitante": "alianza fc",
+  "estadio": " de techo"
+},
+{
+  "_id": {
+    "$oid": "6635598f96cfb9021dff88ee"
+  },
+  "fecha": "2024-02-29",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "pasto",
+  "estadio": " atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88ef"
+  },
+  "fecha": "2024-03-01",
+  "hora": "19:00",
+  "equipo_local": "envigado ",
+  "equipo_visitante": "jaguares",
+  "estadio": "polideportivo sur"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f0"
+  },
+  "fecha": "2024-03-01",
+  "hora": "20:30",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "tolima",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f1"
+  },
+  "fecha": "2024-03-01",
+  "hora": "18:00",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "once caldas",
+  "estadio": " deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f2"
+  },
+  "fecha": "2024-03-02",
+  "hora": "17:30",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "la equidad",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f3"
+  },
+  "fecha": "2024-03-02",
+  "hora": "16:00",
+  "equipo_local": "deportivo pereira ",
+  "equipo_visitante": "america de cali",
+  "estadio": " hernan ramirez villegas "
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f4"
+  },
+  "fecha": "2024-03-02",
+  "hora": "16:00",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "atletico nacional",
+  "estadio": "metropolitano"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f5"
+  },
+  "fecha": "2024-03-03",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "patriotas",
+  "estadio": " Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f6"
+  },
+  "fecha": "2024-03-03",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "águilas doradas",
+  "estadio": " atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f7"
+  },
+  "fecha": "2024-03-04",
+  "hora": "16:00",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "santa fe",
+  "estadio": " armando maestre"
+},
+{
+  "_id": {
+    "$oid": "66355b6096cfb9021dff88f8"
+  },
+  "fecha": "2024-03-04",
+  "hora": "16:00",
+  "equipo_local": "pasto",
+  "equipo_visitante": "fortaleza fc",
+  "estadio": " la libertad"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88f9"
+  },
+  "fecha": "2024-03-08",
+  "hora": "19:00",
+  "equipo_local": "águilas doradas ",
+  "equipo_visitante": "junior",
+  "estadio": "Alberto grisales"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88fa"
+  },
+  "fecha": "2024-03-08",
+  "hora": "20:30",
+  "equipo_local": "la equidad ",
+  "equipo_visitante": "deportivo cali",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88fb"
+  },
+  "fecha": "2024-03-09",
+  "hora": "18:00",
+  "equipo_local": "pasto",
+  "equipo_visitante": "boyaca chico",
+  "estadio": " la libertad"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88fc"
+  },
+  "fecha": "2024-03-09",
+  "hora": "17:30",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "fortaleza",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88fd"
+  },
+  "fecha": "2024-03-09",
+  "hora": "16:00",
+  "equipo_local": "america de cali ",
+  "equipo_visitante": "alianza fc",
+  "estadio": " pascual guerrero "
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88fe"
+  },
+  "fecha": "2024-03-09",
+  "hora": "16:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "medellin",
+  "estadio": "Manuel murrillo toro"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff88ff"
+  },
+  "fecha": "2024-03-10",
+  "hora": "16:00",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "envigado",
+  "estadio": " palogrande"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff8900"
+  },
+  "fecha": "2024-03-10",
+  "hora": "16:00",
+  "equipo_local": "atletico nacional",
+  "equipo_visitante": "bucaramanga",
+  "estadio": " atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff8901"
+  },
+  "fecha": "2024-03-10",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "millonarios",
+  "estadio": " jaraguay de monteria"
+},
+{
+  "_id": {
+    "$oid": "66355da996cfb9021dff8902"
+  },
+  "fecha": "2024-03-10",
+  "hora": "16:00",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "deportivo pereira",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0f4"
+  },
+  "fecha": "2024-03-15",
+  "hora": "19:00",
+  "equipo_local": "alianza fc ",
+  "equipo_visitante": "pasto",
+  "estadio": "armando maestre"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0f5"
+  },
+  "fecha": "2024-03-15",
+  "hora": "20:30",
+  "equipo_local": "junior fc ",
+  "equipo_visitante": "jaguares",
+  "estadio": " metropolitano"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0f6"
+  },
+  "fecha": "2024-03-16",
+  "hora": "18:00",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "tolima",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0f7"
+  },
+  "fecha": "2024-03-16",
+  "hora": "17:30",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "equidad",
+  "estadio": " Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0f8"
+  },
+  "fecha": "2024-03-16",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "atletico nacional",
+  "estadio": " la independencia "
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0f9"
+  },
+  "fecha": "2024-03-16",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "once caldas",
+  "estadio": "atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0fa"
+  },
+  "fecha": "2024-03-17",
+  "hora": "16:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "millonarios",
+  "estadio": " polideportivo sur"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0fb"
+  },
+  "fecha": "2024-03-17",
+  "hora": "16:00",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "patriotas",
+  "estadio": " deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0fc"
+  },
+  "fecha": "2024-03-17",
+  "hora": "16:00",
+  "equipo_local": "fortaleza",
+  "equipo_visitante": "america de cali",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6638f80b13f58e704f7ec0fd"
+  },
+  "fecha": "2024-03-17",
+  "hora": "16:00",
+  "equipo_local": "pereira",
+  "equipo_visitante": "águilas doradas",
+  "estadio": " hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec0fe"
+  },
+  "fecha": "2024-03-22",
+  "hora": "19:00",
+  "equipo_local": "patriotas ",
+  "equipo_visitante": "junior fc",
+  "estadio": "la independencia"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec0ff"
+  },
+  "fecha": "2024-03-22",
+  "hora": "20:30",
+  "equipo_local": "equidad",
+  "equipo_visitante": "medellin",
+  "estadio": " metropolitano de techo"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec100"
+  },
+  "fecha": "2024-03-23",
+  "hora": "18:00",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "cali",
+  "estadio": " Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec101"
+  },
+  "fecha": "2024-03-23",
+  "hora": "17:30",
+  "equipo_local": "tolima",
+  "equipo_visitante": "pereira",
+  "estadio": " Manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec102"
+  },
+  "fecha": "2024-03-23",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "fortaleza",
+  "estadio": "jaraguay"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec103"
+  },
+  "fecha": "2024-03-23",
+  "hora": "16:00",
+  "equipo_local": "america de cali",
+  "equipo_visitante": "boyaca chico",
+  "estadio": "pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec104"
+  },
+  "fecha": "2024-03-24",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "envigado",
+  "estadio": "Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec105"
+  },
+  "fecha": "2024-03-24",
+  "hora": "16:00",
+  "equipo_local": "atletico nacional",
+  "equipo_visitante": "pasto",
+  "estadio": " atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec106"
+  },
+  "fecha": "2024-03-24",
+  "hora": "16:00",
+  "equipo_local": "águilas doradas",
+  "equipo_visitante": "santa fe",
+  "estadio": " Alberto grisales"
+},
+{
+  "_id": {
+    "$oid": "6638f9ef13f58e704f7ec107"
+  },
+  "fecha": "2024-03-25",
+  "hora": "16:00",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "alianza fc",
+  "estadio": "palogrande"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec108"
+  },
+  "fecha": "2024-03-29",
+  "hora": "19:00",
+  "equipo_local": "alianza fc ",
+  "equipo_visitante": "tolima",
+  "estadio": "armando maestre"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec109"
+  },
+  "fecha": "2024-03-29",
+  "hora": "20:30",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "equidad",
+  "estadio": " metropolitano"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec10a"
+  },
+  "fecha": "2024-03-30",
+  "hora": "18:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "atletico nacional",
+  "estadio": " polideportivo sur"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec10b"
+  },
+  "fecha": "2024-03-30",
+  "hora": "17:30",
+  "equipo_local": "pasto",
+  "equipo_visitante": "once caldas",
+  "estadio": "la libertad"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec10c"
+  },
+  "fecha": "2024-03-30",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "jaguares",
+  "estadio": "la independencia"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec10d"
+  },
+  "fecha": "2024-03-30",
+  "hora": "16:00",
+  "equipo_local": "fortaleza",
+  "equipo_visitante": "millonarios",
+  "estadio": "metropolitano de techo"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec10e"
+  },
+  "fecha": "2024-03-31",
+  "hora": "16:00",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "patriotas",
+  "estadio": "Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec10f"
+  },
+  "fecha": "2024-03-31",
+  "hora": "16:00",
+  "equipo_local": "pereira",
+  "equipo_visitante": "bucaramanga",
+  "estadio": " hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec110"
+  },
+  "fecha": "2024-03-31",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "america de cali",
+  "estadio": " atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "6638fb4213f58e704f7ec111"
+  },
+  "fecha": "2024-03-31",
+  "hora": "16:00",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "águilas doradas",
+  "estadio": "deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec112"
+  },
+  "fecha": "2024-03-27",
+  "hora": "19:00",
+  "equipo_local": "millonarios ",
+  "equipo_visitante": "santa fe",
+  "estadio": "Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec113"
+  },
+  "fecha": "2024-04-05",
+  "hora": "20:30",
+  "equipo_local": "envigado",
+  "equipo_visitante": "pereira",
+  "estadio": " polideportivo sur"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec114"
+  },
+  "fecha": "2024-04-05",
+  "hora": "18:00",
+  "equipo_local": "atletico nacional",
+  "equipo_visitante": "fortaleza",
+  "estadio": "atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec115"
+  },
+  "fecha": "2024-04-05",
+  "hora": "17:30",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "tolima",
+  "estadio": "palogrande"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec116"
+  },
+  "fecha": "2024-04-06",
+  "hora": "16:00",
+  "equipo_local": "águilas doradas",
+  "equipo_visitante": "pasto",
+  "estadio": "la independencia"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec117"
+  },
+  "fecha": "2024-04-06",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "deportivo cali",
+  "estadio": "Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec118"
+  },
+  "fecha": "2024-04-06",
+  "hora": "16:00",
+  "equipo_local": "america de cali",
+  "equipo_visitante": "junior fc",
+  "estadio": "pascual guerrero"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec119"
+  },
+  "fecha": "2024-04-07",
+  "hora": "16:00",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "alianza fc",
+  "estadio": " la independencia"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec11a"
+  },
+  "fecha": "2024-04-07",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "medellin",
+  "estadio": "jaraguay"
+},
+{
+  "_id": {
+    "$oid": "6638fcaa13f58e704f7ec11b"
+  },
+  "fecha": "2024-04-07",
+  "hora": "16:00",
+  "equipo_local": "equidad",
+  "equipo_visitante": "boyaca chico",
+  "estadio": "metropolitano de techo"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec11c"
+  },
+  "fecha": "2024-04-12",
+  "hora": "19:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "águilas doradas",
+  "estadio": "Manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec11d"
+  },
+  "fecha": "2024-04-12",
+  "hora": "20:30",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "america de cali",
+  "estadio": "deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec11e"
+  },
+  "fecha": "2024-04-13",
+  "hora": "18:00",
+  "equipo_local": "fortaleza fc",
+  "equipo_visitante": "once caldas",
+  "estadio": "metropolitano de techo"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec11f"
+  },
+  "fecha": "2024-04-13",
+  "hora": "17:30",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "atletico nacional",
+  "estadio": "Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec120"
+  },
+  "fecha": "2024-04-13",
+  "hora": "16:00",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "envigado",
+  "estadio": "metropolitano"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec121"
+  },
+  "fecha": "2024-04-13",
+  "hora": "16:00",
+  "equipo_local": "pereira",
+  "equipo_visitante": "jaguares",
+  "estadio": "hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec122"
+  },
+  "fecha": "2024-04-14",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "patriotas",
+  "estadio": "la independencia"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec123"
+  },
+  "fecha": "2024-04-14",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "bucaramanga",
+  "estadio": "atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec124"
+  },
+  "fecha": "2024-04-14",
+  "hora": "16:00",
+  "equipo_local": "pasto",
+  "equipo_visitante": "millonarios",
+  "estadio": "jaraguay"
+},
+{
+  "_id": {
+    "$oid": "663903c713f58e704f7ec125"
+  },
+  "fecha": "2024-04-14",
+  "hora": "16:00",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "equidad",
+  "estadio": "armando maestre"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec126"
+  },
+  "fecha": "2024-04-20",
+  "hora": "19:00",
+  "equipo_local": "pereira",
+  "equipo_visitante": "millonarios",
+  "estadio": "hernan ramirez villegas"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec127"
+  },
+  "fecha": "2024-04-20",
+  "hora": "20:30",
+  "equipo_local": "junior fc",
+  "equipo_visitante": "once caldas",
+  "estadio": "metropolitano"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec128"
+  },
+  "fecha": "2024-04-20",
+  "hora": "18:00",
+  "equipo_local": "alianza fc",
+  "equipo_visitante": "jaguares",
+  "estadio": "palogrande"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec129"
+  },
+  "fecha": "2024-04-21",
+  "hora": "17:30",
+  "equipo_local": "santa fe",
+  "equipo_visitante": "america de cali",
+  "estadio": "Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec12a"
+  },
+  "fecha": "2024-04-21",
+  "hora": "16:00",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "envigado",
+  "estadio": "deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec12b"
+  },
+  "fecha": "2024-04-21",
+  "hora": "16:00",
+  "equipo_local": "medellin",
+  "equipo_visitante": "atletico nacional",
+  "estadio": "atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec12c"
+  },
+  "fecha": "2024-04-21",
+  "hora": "16:00",
+  "equipo_local": "tolima",
+  "equipo_visitante": "patriotas",
+  "estadio": "Manuel murillo toro"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec12d"
+  },
+  "fecha": "2024-04-22",
+  "hora": "16:00",
+  "equipo_local": "fortaleza ",
+  "equipo_visitante": "bucaramanga",
+  "estadio": "metropolitano de techo"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec12e"
+  },
+  "fecha": "2024-04-22",
+  "hora": "16:00",
+  "equipo_local": "boyaca chico",
+  "equipo_visitante": "águilas doradas",
+  "estadio": "la independencia"
+},
+{
+  "_id": {
+    "$oid": "663911b613f58e704f7ec12f"
+  },
+  "fecha": "2024-04-22",
+  "hora": "16:00",
+  "equipo_local": "pasto",
+  "equipo_visitante": "equidad",
+  "estadio": "departamental la libertad"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec130"
+  },
+  "fecha": "2024-04-27",
+  "hora": "19:00",
+  "equipo_local": "ateltico nacional",
+  "equipo_visitante": "tolima",
+  "estadio": "atanasio girardot"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec131"
+  },
+  "fecha": "2024-04-28",
+  "hora": "20:30",
+  "equipo_local": "patriotas",
+  "equipo_visitante": "pasto",
+  "estadio": "la independencia"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec132"
+  },
+  "fecha": "2024-04-28",
+  "hora": "18:00",
+  "equipo_local": "once caldas",
+  "equipo_visitante": "america de cali",
+  "estadio": "palogrande"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec133"
+  },
+  "fecha": "2024-04-28",
+  "hora": "17:30",
+  "equipo_local": "deportivo cali",
+  "equipo_visitante": "junior fc",
+  "estadio": "deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec134"
+  },
+  "fecha": "2024-04-28",
+  "hora": "16:00",
+  "equipo_local": "águilas doradas",
+  "equipo_visitante": "fortaleza",
+  "estadio": "Alberto grisales"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec135"
+  },
+  "fecha": "2024-04-28",
+  "hora": "16:00",
+  "equipo_local": "bucaramanga",
+  "equipo_visitante": "alianza fc",
+  "estadio": "Alfonso lopez"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec136"
+  },
+  "fecha": "2024-04-28",
+  "hora": "16:00",
+  "equipo_local": "equidad",
+  "equipo_visitante": "pereira",
+  "estadio": "metropolitano de techo"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec137"
+  },
+  "fecha": "2024-04-28",
+  "hora": "16:00",
+  "equipo_local": "envigado",
+  "equipo_visitante": "medellin",
+  "estadio": "metropolitano ciudad de itagui"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec138"
+  },
+  "fecha": "2024-04-28",
+  "hora": "16:00",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "boyaca chico",
+  "estadio": "Nemesio Camacho el campin"
+},
+{
+  "_id": {
+    "$oid": "6639135613f58e704f7ec139"
+  },
+  "fecha": "2024-04-28",
+  "hora": "16:00",
+  "equipo_local": "jaguares",
+  "equipo_visitante": "santa fe",
+  "estadio": "jaraguay"
+}]

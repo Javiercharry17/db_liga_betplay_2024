@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66316593ef4c3e7a0bbc3b2a"
+  },
+  "grupo A": [
+    "Atletico bucaramanga",
+    "deportivo pereira",
+    "millonarios",
+    "junior fc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66316593ef4c3e7a0bbc3b2b"
+  },
+  "grupo B": [
+    "deportivo tolima",
+    "santa fe",
+    "equidad",
+    "once caldas"
+  ]
+}]

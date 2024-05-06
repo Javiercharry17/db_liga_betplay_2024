@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "66315cf8ef4c3e7a0bbc3b16"
+  },
+  "nombre": "cesar farias",
+  "edad": "51 años",
+  "nacionalidad": "venezolano",
+  "experiencia": "ex jugador profesional",
+  "logros": "Campeón Nacional Sub-20 1995-1996",
+  "club actual": "america de cali"
+},
+{
+  "_id": {
+    "$oid": "66315d5bef4c3e7a0bbc3b17"
+  },
+  "nombre": "hubert bodhert",
+  "edad": "52 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "clasificar a cuartos a alianza fc en la copa sudamericana",
+  "club actual": "alianza fc"
+},
+{
+  "_id": {
+    "$oid": "66315db7ef4c3e7a0bbc3b18"
+  },
+  "nombre": "jose luis garcia",
+  "edad": "35 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "ninguno",
+  "club actual": "aguilas doradas"
+},
+{
+  "_id": {
+    "$oid": "66315e1cef4c3e7a0bbc3b19"
+  },
+  "nombre": "rafael dudamel",
+  "edad": "51 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "jugador de copas americas en varios años",
+  "club actual": "atletico bucaramanga"
+},
+{
+  "_id": {
+    "$oid": "66315ebcef4c3e7a0bbc3b1a"
+  },
+  "nombre": "pablo repetto",
+  "edad": "50 años",
+  "nacionalidad": "uruguayo",
+  "experiencia": "ex jugador profesional",
+  "logros": "dirigir varios equipos internacionales",
+  "club actual": "atletico nacional"
+},
+{
+  "_id": {
+    "$oid": "66315f2def4c3e7a0bbc3b1b"
+  },
+  "nombre": "jhon jaime gomez",
+  "edad": "56 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon dirigiendo al boyaca chico",
+  "club actual": "boyaca chico"
+},
+{
+  "_id": {
+    "$oid": "66315f77ef4c3e7a0bbc3b1c"
+  },
+  "nombre": "david gonzales",
+  "edad": "41 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "81 titulos conseguidos",
+  "club actual": "deportes tolima"
+},
+{
+  "_id": {
+    "$oid": "66315fb6ef4c3e7a0bbc3b1d"
+  },
+  "nombre": "hernando patiño",
+  "edad": "51 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "ningun titulo",
+  "club actual": "deportivo cali"
+},
+{
+  "_id": {
+    "$oid": "66316011ef4c3e7a0bbc3b1e"
+  },
+  "nombre": "gustavo florentin",
+  "edad": "45 años",
+  "nacionalidad": "paraguayo",
+  "experiencia": "ex jugador profesional",
+  "logros": "jugador de seleccion sub-20",
+  "club actual": "deportivo pasto"
+},
+{
+  "_id": {
+    "$oid": "66316076ef4c3e7a0bbc3b1f"
+  },
+  "nombre": "leonel alvarez",
+  "edad": "58 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon primera A y superliga",
+  "club actual": "deportivo pereira"
+},
+{
+  "_id": {
+    "$oid": "663160c8ef4c3e7a0bbc3b20"
+  },
+  "nombre": "alexis marquez",
+  "edad": "47 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "ningun titulo",
+  "club actual": "envigado fc"
+},
+{
+  "_id": {
+    "$oid": "66316115ef4c3e7a0bbc3b21"
+  },
+  "nombre": "sebastian oliveros",
+  "edad": "36 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "llevo hacer el mejor de la reclasificacion a fortaleza fc",
+  "club actual": "fortaleza fc"
+},
+{
+  "_id": {
+    "$oid": "6631616aef4c3e7a0bbc3b22"
+  },
+  "nombre": "alfredo arias",
+  "edad": "65 años",
+  "nacionalidad": "uruguayo",
+  "experiencia": "ex jugador profesional",
+  "logros": "llevar a la gran final al independiente medellin",
+  "club actual": "independiente medellin"
+},
+{
+  "_id": {
+    "$oid": "6631619fef4c3e7a0bbc3b23"
+  },
+  "nombre": "carlos echeverria",
+  "edad": "51 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "ningun titulo",
+  "club actual": "jaguares"
+},
+{
+  "_id": {
+    "$oid": "663161fdef4c3e7a0bbc3b24"
+  },
+  "nombre": "arturo reyes",
+  "edad": "55 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon con junior de barranquilla",
+  "club actual": "junior de barranquilla"
+},
+{
+  "_id": {
+    "$oid": "66316256ef4c3e7a0bbc3b25"
+  },
+  "nombre": "alexis garcia",
+  "edad": "63 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon de copa colombia con la equidad",
+  "club actual": "la equidad"
+},
+{
+  "_id": {
+    "$oid": "6631629aef4c3e7a0bbc3b26"
+  },
+  "nombre": "alberto gamero",
+  "edad": "60 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon liga betplay 2 2023- millonarios",
+  "club actual": "millonarios"
+},
+{
+  "_id": {
+    "$oid": "663162d0ef4c3e7a0bbc3b27"
+  },
+  "nombre": "hernan dario herrera",
+  "edad": "66 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon de copa colombia",
+  "club actual": "once caldas"
+},
+{
+  "_id": {
+    "$oid": "6631632aef4c3e7a0bbc3b28"
+  },
+  "nombre": "harold rivera",
+  "edad": "53 años",
+  "nacionalidad": "colombiano",
+  "experiencia": "ex jugador profesional",
+  "logros": "campeon con la seleccion colombia sub -15 de tolima",
+  "club actual": "patriotas"
+},
+{
+  "_id": {
+    "$oid": "66316395ef4c3e7a0bbc3b29"
+  },
+  "nombre": "pablo peirano",
+  "edad": "49 años",
+  "nacionalidad": "uruguayo",
+  "experiencia": "ex entrenador de racing club",
+  "logros": "ningun titulo",
+  "club actual": "santa fe"
+}]

@@ -1,0 +1,2442 @@
+[{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2f8"
+  },
+  "nombre": "Harlen Castillo",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2f9"
+  },
+  "nombre": "Joan Castro",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2fa"
+  },
+  "nombre": "Juan José Arias",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2fb"
+  },
+  "nombre": "Felipe Aguirre",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2fc"
+  },
+  "nombre": "Álvaro Angulo",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2fd"
+  },
+  "nombre": "John Duque",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2fe"
+  },
+  "nombre": "Agustín Álvarez",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "Atlético Nacional",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a2ff"
+  },
+  "nombre": "Édier Ocampo",
+  "posicion": "Delantero",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a300"
+  },
+  "nombre": "Pablo Ceppelini",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "Atlético Nacional",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a301"
+  },
+  "nombre": "Oscar Perea",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a0027823cdbac475a302"
+  },
+  "nombre": "Emilio Aristizábal",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a2017823cdbac475a30c"
+  },
+  "nombre": "misael martinez",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a2017823cdbac475a30d"
+  },
+  "nombre": "emanuel saguert",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "Atlético Nacional",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a30e"
+  },
+  "nombre": "aldair quintana",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a30f"
+  },
+  "nombre": "santiago jimenez",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a310"
+  },
+  "nombre": " carlos henao",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a311"
+  },
+  "nombre": "aldair gutierrez",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a312"
+  },
+  "nombre": "juan camilo mosquera",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a313"
+  },
+  "nombre": "fabian fambueza",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a314"
+  },
+  "nombre": "fredy hinestroza",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a315"
+  },
+  "nombre": "estefano arango",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a316"
+  },
+  "nombre": "recardo marquez",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a317"
+  },
+  "nombre": "misael martinez",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a2a67823cdbac475a318"
+  },
+  "nombre": "emanuel saguert",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "atletico bucaramanga",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a324"
+  },
+  "nombre": "nelto volpi",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a325"
+  },
+  "nombre": "julian quiñonez",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a326"
+  },
+  "nombre": " cesar airda",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a327"
+  },
+  "nombre": "marlon torres",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a328"
+  },
+  "nombre": " yilson rosales",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a329"
+  },
+  "nombre": "jeison lucumi",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a32a"
+  },
+  "nombre": " yeison guzman",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo tolima",
+  "goles": 6
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a32b"
+  },
+  "nombre": "alex castro",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a32c"
+  },
+  "nombre": "brayan hurtado",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo tolima",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a32d"
+  },
+  "nombre": "lucas gonzalez",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a56b7823cdbac475a32e"
+  },
+  "nombre": "junior hernandez",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo tolima",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a32f"
+  },
+  "nombre": "nelto volpi",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a330"
+  },
+  "nombre": "carlos quintero",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a331"
+  },
+  "nombre": " gonzale lencina",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a332"
+  },
+  "nombre": "faber gil",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a333"
+  },
+  "nombre": " andres ibarguen",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a334"
+  },
+  "nombre": "alejandro montero",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a335"
+  },
+  "nombre": "juan diaz",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo pereira",
+  "goles": 6
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a336"
+  },
+  "nombre": "santiago gomez",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a337"
+  },
+  "nombre": "yesus cabrera",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo pereira",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a338"
+  },
+  "nombre": "nicolas giraldo",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a6dc7823cdbac475a339"
+  },
+  "nombre": "franklin mosquera",
+  "posicion": "Delantero",
+  "edad": 18,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pereira",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a33a"
+  },
+  "nombre": "leandro castellanos",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a33b"
+  },
+  "nombre": "marcelo ortiz",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a33c"
+  },
+  "nombre": " elvis perlaza",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a33d"
+  },
+  "nombre": "facundo herrera",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a33e"
+  },
+  "nombre": " fran casteñeda",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a33f"
+  },
+  "nombre": "daniel torres",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a340"
+  },
+  "nombre": "agustin rodriguez",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "santa fe",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a341"
+  },
+  "nombre": "omar perez",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a342"
+  },
+  "nombre": "daniel moreno",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "santa fe",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a343"
+  },
+  "nombre": "francisco chavera",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632a8e17823cdbac475a344"
+  },
+  "nombre": "hugo rodallega",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "santa fe",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a345"
+  },
+  "nombre": "andres perez",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a346"
+  },
+  "nombre": "jhoan roa",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a347"
+  },
+  "nombre": " elan ochoa",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a348"
+  },
+  "nombre": "kevin rodallega",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a349"
+  },
+  "nombre": " felipe acosta",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a34a"
+  },
+  "nombre": "andres correa",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a34b"
+  },
+  "nombre": "fabian herrera",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "la equidad",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a34c"
+  },
+  "nombre": "kevin salazar",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a34d"
+  },
+  "nombre": "jose lloreda",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "la equidad",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a34e"
+  },
+  "nombre": "david camacho",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632aa397823cdbac475a34f"
+  },
+  "nombre": "martin ortega",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "la equidad",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a350"
+  },
+  "nombre": "alvaro montero",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a351"
+  },
+  "nombre": "andres llinas",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a352"
+  },
+  "nombre": " juan pablo vargas",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a353"
+  },
+  "nombre": "jhoan hernandez",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a354"
+  },
+  "nombre": " omar bertel",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a355"
+  },
+  "nombre": "daniel cataño",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a356"
+  },
+  "nombre": "david mackalister",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "millonarios",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a357"
+  },
+  "nombre": "omar banguero",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a358"
+  },
+  "nombre": "santiago giordana",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "millonarios",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a359"
+  },
+  "nombre": "daniel ruiz",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632abd67823cdbac475a35a"
+  },
+  "nombre": "leonel castro",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "millonarios",
+  "goles": 5
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a35b"
+  },
+  "nombre": "santiago mele",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a35c"
+  },
+  "nombre": "marco perez",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a35d"
+  },
+  "nombre": " rafael perez",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a35e"
+  },
+  "nombre": "nicolas salazar",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a35f"
+  },
+  "nombre": " grabriel fuentes",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a360"
+  },
+  "nombre": "luis gonzalez",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a361"
+  },
+  "nombre": "david bocanegrar",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "junior fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a362"
+  },
+  "nombre": "victor cantillo",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a363"
+  },
+  "nombre": "yimmi chara",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "junior fc",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a364"
+  },
+  "nombre": "jose enamorado",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6632ad4c7823cdbac475a365"
+  },
+  "nombre": "carlos bacca",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "junior fc",
+  "goles": 5
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fb9"
+  },
+  "nombre": "james aguirre",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fba"
+  },
+  "nombre": "stalin valencia",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fbb"
+  },
+  "nombre": " jhonatan murillo",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fbc"
+  },
+  "nombre": "juan cuesta",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fbd"
+  },
+  "nombre": " billy arce",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fbe"
+  },
+  "nombre": "luis gonzalez",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fbf"
+  },
+  "nombre": "mateo garcia",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "once caldas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fc0"
+  },
+  "nombre": "gustavo torres",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fc1"
+  },
+  "nombre": "santiago clubides",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "once caldas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fc2"
+  },
+  "nombre": "juan camilo sotto",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b4af8ff42599ccd75fc3"
+  },
+  "nombre": "dayro moreno",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "once caldas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fc4"
+  },
+  "nombre": "eder chaux",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fc5"
+  },
+  "nombre": "jose ajax",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fc6"
+  },
+  "nombre": " daniel londoño",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fc7"
+  },
+  "nombre": "luis orejuela",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fc8"
+  },
+  "nombre": " yairo moreno",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fc9"
+  },
+  "nombre": "jaime peralta",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fca"
+  },
+  "nombre": "baldomero perlaza",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "independiente medellin",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fcb"
+  },
+  "nombre": "mender garcia ",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fcc"
+  },
+  "nombre": "santiago clubides",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "independiente medellin",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fcd"
+  },
+  "nombre": "jhon vasquez",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b5a18ff42599ccd75fce"
+  },
+  "nombre": "dayro moreno",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "independiente medellin",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fcf"
+  },
+  "nombre": "joel graterol",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd0"
+  },
+  "nombre": "daniel bocanegra",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd1"
+  },
+  "nombre": " andres mosquera",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd2"
+  },
+  "nombre": "jeison palacios",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd3"
+  },
+  "nombre": "nilson castrillon",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd4"
+  },
+  "nombre": "edwin cardona",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd5"
+  },
+  "nombre": "alexis zapata",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "america de cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd6"
+  },
+  "nombre": "harol rivera",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd7"
+  },
+  "nombre": "rodrigo holgado",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "america de cali",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd8"
+  },
+  "nombre": "adrian ramos",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b77b8ff42599ccd75fd9"
+  },
+  "nombre": "cristian barrios",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "america de cali",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fda"
+  },
+  "nombre": "jose contreras",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fdb"
+  },
+  "nombre": "joaquin varela",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fdc"
+  },
+  "nombre": " erilson barrera",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fdd"
+  },
+  "nombre": "jeison quiñonez",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fde"
+  },
+  "nombre": "jose cuenca",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fdf"
+  },
+  "nombre": "felipe pardo",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fe0"
+  },
+  "nombre": "jeans pineda",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "aguilas doradas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fe1"
+  },
+  "nombre": "juan arevalo",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fe2"
+  },
+  "nombre": "jhon salazar",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "aguilas doradas",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fe3"
+  },
+  "nombre": "agustin vhitic",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b89c8ff42599ccd75fe4"
+  },
+  "nombre": "jorge ramos",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "aguilas doradas",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fe5"
+  },
+  "nombre": "juan castillo",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fe6"
+  },
+  "nombre": "ivan anderson",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fe7"
+  },
+  "nombre": " cesar hinestroza",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fe8"
+  },
+  "nombre": "hayen palacios",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fe9"
+  },
+  "nombre": "juan andrade",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fea"
+  },
+  "nombre": "daniel alejandro",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75feb"
+  },
+  "nombre": "leonardo pico",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "fortaleza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fec"
+  },
+  "nombre": "kevin madrid",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fed"
+  },
+  "nombre": "adrian parra",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "fortaleza fc",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fee"
+  },
+  "nombre": "jesus arrieta",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633b9b08ff42599ccd75fef"
+  },
+  "nombre": "roller soto",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "fortaleza fc",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff0"
+  },
+  "nombre": "geovanni banguera",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff1"
+  },
+  "nombre": "leonardo escovia",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff2"
+  },
+  "nombre": "darwin andrade",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff3"
+  },
+  "nombre": "julian anaya",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff4"
+  },
+  "nombre": "kevin riascos",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff5"
+  },
+  "nombre": "enrique serges",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff6"
+  },
+  "nombre": "juan camilo roa",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "jaguares",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff7"
+  },
+  "nombre": "daniel padilla",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff8"
+  },
+  "nombre": "wilson morelo",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "jaguares",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ff9"
+  },
+  "nombre": "pablo rojas",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633badc8ff42599ccd75ffa"
+  },
+  "nombre": "jose mendoza",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "jaguares",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd75ffb"
+  },
+  "nombre": "alejandro rodriguez",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd75ffc"
+  },
+  "nombre": "francisco meza",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd75ffd"
+  },
+  "nombre": "jose caldera",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd75ffe"
+  },
+  "nombre": "jhonathan marulanda",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd75fff"
+  },
+  "nombre": "julian gomez",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd76000"
+  },
+  "nombre": "jarlan barrera",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd76001"
+  },
+  "nombre": "andres andrades",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo cali",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd76002"
+  },
+  "nombre": "javier reina",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd76003"
+  },
+  "nombre": "fredy montero",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo cali",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd76004"
+  },
+  "nombre": "juan cordoba",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633bc8d8ff42599ccd76005"
+  },
+  "nombre": "lautaro villegas",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo cali",
+  "goles": 5
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd76006"
+  },
+  "nombre": "diego martinez",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd76007"
+  },
+  "nombre": "israel alba",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd76008"
+  },
+  "nombre": "brayan carabali",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd76009"
+  },
+  "nombre": "crhistian mafla",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd7600a"
+  },
+  "nombre": "jherson malagon",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd7600b"
+  },
+  "nombre": "santiago gomez",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd7600c"
+  },
+  "nombre": "andres amaya",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo pasto",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd7600d"
+  },
+  "nombre": "kevin rendon",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd7600e"
+  },
+  "nombre": "jose bernal",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "deportivo pasto",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd7600f"
+  },
+  "nombre": "michel ramos",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633be428ff42599ccd76010"
+  },
+  "nombre": "david contreras",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "deportivo pasto",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76011"
+  },
+  "nombre": "rogedio caicedo",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76012"
+  },
+  "nombre": "henry plazas",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76013"
+  },
+  "nombre": "juan felipe castaño",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76014"
+  },
+  "nombre": "david murillo",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76015"
+  },
+  "nombre": "eduard banguero",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76016"
+  },
+  "nombre": "angelo peña",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76017"
+  },
+  "nombre": "kevin londoño",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "boyaca chico",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76018"
+  },
+  "nombre": "anderson mojica",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 2
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd76019"
+  },
+  "nombre": "sebastian tamara",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "boyaca chico",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd7601a"
+  },
+  "nombre": "wilmar cruz",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633c17d8ff42599ccd7601b"
+  },
+  "nombre": "michael gomez",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "boyaca chico",
+  "goles": 4
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd7601c"
+  },
+  "nombre": "joan felipe parra",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd7601d"
+  },
+  "nombre": "andres cadavid",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd7601e"
+  },
+  "nombre": "tomas maya",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd7601f"
+  },
+  "nombre": "julian palacios",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76020"
+  },
+  "nombre": "santiago noreño",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76021"
+  },
+  "nombre": "felipe jaramillo",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76022"
+  },
+  "nombre": "edison lopez",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "envigado fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76023"
+  },
+  "nombre": "juan villa",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76024"
+  },
+  "nombre": "juan manuel cuesta",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "envigado fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76025"
+  },
+  "nombre": "bayron garces",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c2868ff42599ccd76026"
+  },
+  "nombre": "juan potes",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "envigado fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd76027"
+  },
+  "nombre": "jaime mora",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd76028"
+  },
+  "nombre": "pedro franco",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd76029"
+  },
+  "nombre": "jesus figeroa",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd7602a"
+  },
+  "nombre": "leonardo saldaña",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd7602b"
+  },
+  "nombre": "luciano ospina",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd7602c"
+  },
+  "nombre": "sherman cardenas",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd7602d"
+  },
+  "nombre": "emerson batalla",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "alianza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd7602e"
+  },
+  "nombre": "riyery blanco",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd7602f"
+  },
+  "nombre": "andres renteria",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "alianza fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd76030"
+  },
+  "nombre": "joel contreras",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c3578ff42599ccd76031"
+  },
+  "nombre": "jhoan david parra",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "alianza fc",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76032"
+  },
+  "nombre": "juan david valencia",
+  "posicion": "portero",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76033"
+  },
+  "nombre": "luis payares",
+  "posicion": "defensa central",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 0
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76034"
+  },
+  "nombre": "santiago roa",
+  "posicion": "defensa central",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76035"
+  },
+  "nombre": "mauricio gomez",
+  "posicion": "lateral derecho",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76036"
+  },
+  "nombre": "agustin pezzi",
+  "posicion": "lateral izquierdo",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76037"
+  },
+  "nombre": "carlos de la sala",
+  "posicion": "medio campista",
+  "edad": 32,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 1
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76038"
+  },
+  "nombre": "kevin parra",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "patriotas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd76039"
+  },
+  "nombre": "maicol medina",
+  "posicion": "medio campista",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 3
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd7603a"
+  },
+  "nombre": "crsitian borja",
+  "posicion": "delantero",
+  "edad": 32,
+  "nacionalidad": "uruguaya",
+  "equipo actual": "patriotas",
+  "goles": 5
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd7603b"
+  },
+  "nombre": "santiago cordoba",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 5
+},
+{
+  "_id": {
+    "$oid": "6633c4538ff42599ccd7603c"
+  },
+  "nombre": "jeanfranco peña",
+  "posicion": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo actual": "patriotas",
+  "goles": 5
+}]

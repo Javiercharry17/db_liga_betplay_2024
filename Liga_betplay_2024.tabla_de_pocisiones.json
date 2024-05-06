@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b33"
+  },
+  "equipo": "Bucaramanga",
+  "posicion": 1,
+  "puntos": 38,
+  "ganados": 11,
+  "empates": 5,
+  "perdidos": 3
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b34"
+  },
+  "equipo": "tolima",
+  "posicion": 2,
+  "puntos": 38,
+  "ganados": 11,
+  "empates": 5,
+  "perdidos": 3
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b35"
+  },
+  "equipo": "deportivo pereira",
+  "posicion": 3,
+  "puntos": 34,
+  "ganados": 10,
+  "empates": 4,
+  "perdidos": 5
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b36"
+  },
+  "equipo": "santa fe",
+  "posicion": 4,
+  "puntos": 34,
+  "ganados": 10,
+  "empates": 4,
+  "perdidos": 5
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b37"
+  },
+  "equipo": "la equidad",
+  "posicion": 5,
+  "puntos": 33,
+  "ganados": 9,
+  "empates": 6,
+  "perdidos": 4
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b38"
+  },
+  "equipo": "millonarios",
+  "posicion": 6,
+  "puntos": 31,
+  "ganados": 9,
+  "empates": 4,
+  "perdidos": 6
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b39"
+  },
+  "equipo": "junior",
+  "posicion": 7,
+  "puntos": 29,
+  "ganados": 8,
+  "empates": 5,
+  "perdidos": 6
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b3a"
+  },
+  "equipo": "once caldas",
+  "posicion": 8,
+  "puntos": 29,
+  "ganados": 8,
+  "empates": 5,
+  "perdidos": 6
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b3b"
+  },
+  "equipo": "independiente medellin ",
+  "posicion": 9,
+  "puntos": 29,
+  "ganados": 8,
+  "empates": 5,
+  "perdidos": 6
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b3c"
+  },
+  "equipo": "amaerica de cali",
+  "posicion": 10,
+  "puntos": 25,
+  "ganados": 6,
+  "empates": 7,
+  "perdidos": 6
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b3d"
+  },
+  "equipo": "aguilas doradas",
+  "posicion": 11,
+  "puntos": 25,
+  "ganados": 7,
+  "empates": 4,
+  "perdidos": 8
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b3e"
+  },
+  "equipo": "atletico nacional",
+  "posicion": 12,
+  "puntos": 24,
+  "ganados": 6,
+  "empates": 6,
+  "perdidos": 7
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b3f"
+  },
+  "equipo": "fortaleza fc ",
+  "posicion": 13,
+  "puntos": 24,
+  "ganados": 6,
+  "empates": 6,
+  "perdidos": 7
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b40"
+  },
+  "equipo": "jaguares",
+  "posicion": 14,
+  "puntos": 22,
+  "ganados": 5,
+  "empates": 7,
+  "perdidos": 7
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b41"
+  },
+  "equipo": "deportivo cali",
+  "posicion": 15,
+  "puntos": 21,
+  "ganados": 5,
+  "empates": 6,
+  "perdidos": 8
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b42"
+  },
+  "equipo": "pasto",
+  "posicion": 16,
+  "puntos": 19,
+  "ganados": 5,
+  "empates": 4,
+  "perdidos": 10
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b43"
+  },
+  "equipo": "boyaca chico",
+  "posicion": 17,
+  "puntos": 18,
+  "ganados": 5,
+  "empates": 3,
+  "perdidos": 11
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b44"
+  },
+  "equipo": "envigado",
+  "posicion": 18,
+  "puntos": 16,
+  "ganados": 3,
+  "empates": 7,
+  "perdidos": 9
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b45"
+  },
+  "equipo": "alianza fc",
+  "posicion": 19,
+  "puntos": 16,
+  "ganados": 4,
+  "empates": 4,
+  "perdidos": 11
+},
+{
+  "_id": {
+    "$oid": "66316d51ef4c3e7a0bbc3b46"
+  },
+  "equipo": "patriotas",
+  "posicion": 20,
+  "puntos": 15,
+  "ganados": 4,
+  "empates": 3,
+  "perdidos": 12
+}]

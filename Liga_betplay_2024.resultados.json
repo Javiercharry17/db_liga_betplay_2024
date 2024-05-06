@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec13a"
+  },
+  "fecha": "2024-04-27",
+  "encuentro": "patriotas vs jaguares",
+  "resultado": "0-1",
+  "goles_local": 0,
+  "goles_visitante": 1
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec13b"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "Pereira vs Cali",
+  "resultado": "2-2",
+  "goles_local": 2,
+  "goles_visitante": 2
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec13c"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "once caldas vs Boyacá chico",
+  "resultado": "2-1",
+  "goles_local": 2,
+  "goles_visitante": 1
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec13d"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "Tolima vs fortaleza",
+  "resultado": "1-2",
+  "goles_local": 1,
+  "goles_visitante": 2
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec13e"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "america vs águilas doradas",
+  "resultado": "0-1",
+  "goles_local": 0,
+  "goles_visitante": 1
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec13f"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "millonarios vs Medellín",
+  "resultado": "5-0",
+  "goles_local": 5,
+  "goles_visitante": 0
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec140"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "junior vs Bucaramanga",
+  "resultado": "2-0",
+  "goles_local": 2,
+  "goles_visitante": 0
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec141"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "nacional vs alianza",
+  "resultado": "3-1",
+  "goles_local": 3,
+  "goles_visitante": 1
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec142"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "equidad vs envigado",
+  "resultado": "0-0",
+  "goles_local": 0,
+  "goles_visitante": 0
+},
+{
+  "_id": {
+    "$oid": "66394bf313f58e704f7ec143"
+  },
+  "fecha": "2024-04-28",
+  "encuentro": "pasto vs santa fe",
+  "resultado": "1-1",
+  "goles_local": 1,
+  "goles_visitante": 1
+}]
