@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36158e"
+  },
+  "Nombre": "Atletico Bucaramanga",
+  "ciudad": "bucaramanga"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36158f"
+  },
+  "Nombre": "deportes tolima",
+  "ciudad": "ibague"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361590"
+  },
+  "Nombre": "deportivo pereira",
+  "ciudad": "pereira"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361591"
+  },
+  "Nombre": "santa fe",
+  "ciudad": "bogota"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361592"
+  },
+  "Nombre": "once caldas",
+  "ciudad": "manizales"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361593"
+  },
+  "Nombre": "la equidad",
+  "ciudad": "bogota"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361594"
+  },
+  "Nombre": "junior fc",
+  "ciudad": "barranquilla"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361595"
+  },
+  "Nombre": "ind.medellin",
+  "ciudad": "medellin"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361596"
+  },
+  "Nombre": "millonarios",
+  "ciudad": "bogota"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361597"
+  },
+  "Nombre": "america de cali",
+  "ciudad": "cali"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361598"
+  },
+  "Nombre": "atletico nacional",
+  "ciudad": "medellin"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a361599"
+  },
+  "Nombre": "fortaleza fc",
+  "ciudad": "bogota"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36159a"
+  },
+  "Nombre": "jaguares",
+  "ciudad": "monteria"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36159b"
+  },
+  "Nombre": "deportivo cali",
+  "ciudad": "cali"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36159c"
+  },
+  "Nombre": "águilas doradas",
+  "ciudad": "rionegro"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36159d"
+  },
+  "Nombre": "envigado",
+  "ciudad": "envigado"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36159e"
+  },
+  "Nombre": "alianza fc",
+  "ciudad": "valledupar"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a36159f"
+  },
+  "Nombre": "boyaca chico",
+  "ciudad": "tunja"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a3615a0"
+  },
+  "Nombre": "deportivo pasto",
+  "ciudad": "pasto"
+},
+{
+  "_id": {
+    "$oid": "663d562cd60b63d17a3615a1"
+  },
+  "Nombre": "patriotas fc",
+  "ciudad": "tunja"
+}]
